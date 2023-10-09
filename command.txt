@@ -4,3 +4,4 @@ git clone remote path
  git push origin main/master
  git status 
 git branch 
+git stash
